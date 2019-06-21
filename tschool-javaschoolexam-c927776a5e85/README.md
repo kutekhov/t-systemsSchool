@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : {Petr Kutekhov}
-* Codeship : {}
+* Codeship : {https://app.codeship.com/projects/f225b100-6cee-0137-d0f4-367069025711/status?branch=master}
 
 
 
